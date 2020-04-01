@@ -52,7 +52,7 @@ class Ws
         sleep(10);
         return [
             'fd'=>$data['fd'],
-            'message' => 'ok',
+            'message' => 'ok ',
         ];
     }
 
